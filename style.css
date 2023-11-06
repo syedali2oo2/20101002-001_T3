@@ -1,0 +1,86 @@
+   body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: rgb(36, 34, 34);
+        }
+        header {
+            text-align: center;
+        }
+        section {
+            margin: 20px    0;
+            border: 1px solid white;
+        }
+        h2 {
+            color:  #ec1212;
+            margin-left: 40px   ;
+        }
+        ul {
+            margin-left: 10px;
+        }
+        ol
+        {
+            margin-left: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 3px solid white;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        img {
+            max-width: 200px;
+            border-radius: 10%;
+        }
+        p{
+            margin-left: 50px;
+            margin-right: 100px;
+       }
+       footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .social-icons a {
+        margin: 0 5px;
+        color: #f0f0f0;
+    }
+    
+    /* Position your WhatsApp icon to the bottom-right corner */
+    .social-icons {
+        
+       margin: 20px;
+       font-size: 40px;
+       
+    }
+    .Email
+    {
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    .float{
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom:40px;
+        right:40px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        font-size:30px;
+        box-shadow: 2px 2px 3px #1b1b1b;
+        
+    }
+    
+    .my-float{
+        margin-top:16px;
+    }
